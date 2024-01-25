@@ -1,0 +1,21 @@
+As part of the second homework you will need to set up a Spark environment (https://spark.apache.org/) for big data analytics.
+
+
+
+You need to apply the recommendation algorithm (alternating least squares, implementation https://spark.apache.org/docs/latest/mllib-collaborative-filtering.html) to solve the movie recommendation problem over the dataset (https: //grouplens.org/datasets/movielens/100k/). Homework should include:
+
+
+
+1. Project with the solution
+
+
+
+2. A written document detailing the evaluation of the recommendation algorithm
+
+
+
+3. Results and conclusions of the conducted experiments
+
+
+
+bonus: Analysis of the same dataset with recommendation algorithms implemented in the library http://surpriselib.com/
